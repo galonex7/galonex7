@@ -1,4 +1,5 @@
-Hi, I'm Glenn Rodrigues 👋
+Hi, I'm Glenn Rodrigues👋
+
 🛡️ Cybersecurity Professional & ServiceNow Developer
 I am a Master of Science candidate in Cyber Security, Technology and Policy at The University of Texas at Dallas. My expertise lies at the intersection of Security Operations (SOC) and Automated Vulnerability Management. Currently, I am a ServiceNow Developer Intern specializing in Risk and Cybersecurity.
 
